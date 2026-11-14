@@ -4,3 +4,9 @@ ST-02,Викладач відповідальний за формат артеф
 ST-03,Студенти навчальної групи,Академія,low,low,neutral,monitor,BA
 ST-04,Представник іншої кафедри Agile,Інша кафедра академії,high,low,supporter,keep_informed,BA
 ST-05,Адміністратор середовища розгортання,ІТ-служба академії,low,high,neutral,keep_satisfied,PM
+ST-06,PM (я),Команда PokerPlan,high,high,supporter,manage_closely,PM
+ST-07,BA (бізнес-аналітик),Команда PokerPlan,high,low,supporter,keep_informed,PM
+ST-08,Dev (розробник),Команда PokerPlan,high,low,supporter,keep_informed,PM
+ST-09,QA (інженер з якості),Команда PokerPlan,high,low,supporter,keep_informed,PM
+ST-10,Представник служби інформаційної безпеки,Служба інформаційної безпеки академії,high,high,neutral,manage_closely,PM
+ST-11,Спонсор проєкту,Академія,high,high,supporter,manage_closely,PM
