@@ -16,8 +16,8 @@
 | Варіант вхідних умов | V06|
 | Трекер | [Jira — робочі кроки ЛР4](https://oa-team-i0f8b909.atlassian.net/jira/software/projects/PKL0/boards/2); історії продукту — GitHub Projects, див. ЛР6 |
 | Дошка | [Jira PKL0 №2](https://oa-team-i0f8b909.atlassian.net/jira/software/projects/PKL0/boards/2); [публічний знімок стану](lr04_kanban/board.md) |
-| Валюта проєкту | для кошторису ЛР16 |
-| Contingency, % | від прямих витрат, ЛР16 |
+| Валюта проєкту | грн |
+| Contingency, % | 5% від прямих витрат |
 
 ## Як влаштований репозиторій
 

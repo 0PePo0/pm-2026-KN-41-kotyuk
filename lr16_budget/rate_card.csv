@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,400,362,"https://dou.ua/lenta/articles/salary-report-managers-winter-2026/",Senior PM 3325 проти Senior Dev 4500 у зимовій хвилі DOU 2026; ставка round(490 * 3325 / 4500) = 362 грн/год.
+BA,1,800,338,"https://dou.ua/lenta/articles/salary-report-data-winter-2026/",Senior BA 3100 проти Senior Dev 4500 у зимовій хвилі DOU 2026; ставка round(490 * 3100 / 4500) = 338 грн/год.
+Dev,2,1600,490,"https://dou.ua/lenta/articles/salary-report-devs-winter-2026/",Два Dev по 100%; Senior Dev 4500 у зимовій хвилі DOU 2026 є базою пропорцій; масштаб 490 грн/год обраний під бюджет V06.
+QA,0.5,400,348,"https://dou.ua/lenta/articles/salary-report-qa-winter-2026/",Senior QA 3200 проти Senior Dev 4500 у зимовій хвилі DOU 2026; ставка round(490 * 3200 / 4500) = 348 грн/год.
